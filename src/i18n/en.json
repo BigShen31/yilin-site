@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Yilin",
+    "title": "10+ Years Financial IT Programmer · Low-Risk Investment Practitioner · AI Project Practitioner",
+    "subtitle": "Paid off my mortgage in 5 years through low-risk investment and arbitrage. AI project practitioner. Growth and sharing on the journey of striving."
+  },
+  "about": {
+    "heading": "About Me",
+    "intro": "Based in Hangzhou with 10+ years of experience in financial IT. Paid off my mortgage in 5 years through low-risk investment and arbitrage. Currently exploring AI project implementation. Striving is the main melody of life.",
+    "philosophy": [
+      {
+        "title": "Grow Wealth Through Low-Risk Investment",
+        "desc": "Convertible bond rotation, HK/US stock IPO subscriptions, fund arbitrage; paid off mortgage in 5 years through low-risk investment/arbitrage. Investing in HK/US stocks focusing on future trends: semiconductors, storage, optical communication, VOO, QQQ (position control)."
+      },
+      {
+        "title": "AI Project Implementation, Secure Cash Flow",
+        "desc": "AI Overseas (YTB) in progress—AI + overseas + making money, avoiding domestic competition, is a sexier proposition. AI Agent in progress, train a few agent builders at a similar level using a master-apprentice model, forming a small team with crushing competitive advantage."
+      },
+      {
+        "title": "Love Life, Cultivate Self & Family",
+        "desc": "Baduanjin, sutra recitation, road trips... cultivating the ability to perceive life's beauty. Determined to explore different social classes and circles, striving is the main theme of life, savoring this journey called life. Raising parents, educating children, thinking about how to extract and pass on my own abilities to the next generation."
+      },
+      {
+        "title": "Growth Journal",
+        "desc": "Documenting daily and weekly struggles, projects, and reflections for my future self — 1, 2, 3, or 5 years from now."
+      }
+    ]
+  },
+  "experience": {
+    "heading": "Experience",
+    "items": [
+      {
+        "title": "AI Project Exploration",
+        "period": "In Progress",
+        "description": "AI + making money is a viable path > AI + going global + making money while avoiding domestic competition is an even sexier thing."
+      },
+      {
+        "title": "Low-Risk Investment Practitioner",
+        "period": "2019 - Present",
+        "description": "Paid off mortgage in 5 years through convertible bond rotation, IPO subscriptions, and arbitrage strategies. Continuously exploring convertible bonds, LOF arbitrage, HK/US stock IPOs, and future trend investments."
+      },
+      {
+        "title": "10+ Years Financial IT Programmer",
+        "period": "",
+        "description": "Deep expertise in financial IT, with accumulated skills in distributed systems, microservices, performance optimization, 3D monitoring, source code analysis; wealth management, risk management, performance evaluation; project delivery, product iteration."
+      }
+    ]
+  },
+  "skills": {
+    "heading": "Skills",
+    "work": {
+      "label": "Work Skills",
+      "items": ["Distributed Systems", "Microservices", "Performance Optimization", "3D Monitoring", "Wealth Management", "Risk Management", "Performance Evaluation", "Product Iteration", "Project Delivery"]
+    },
+    "investment": {
+      "label": "Low-Risk Investment",
+      "items": ["Convertible Bond Rotation", "Convertible Bond Diversification", "Convertible Bond IPOs", "LOF Arbitrage", "HK Stock IPOs", "US Stock IPOs", "Exchange Arbitrage", "On-chain Arbitrage"]
+    },
+    "investmentFocus": {
+      "label": "Future Trend Investment",
+      "items": ["Semiconductors", "Storage", "Optical Communication", "VOO", "QQQ"]
+    },
+    "ai": {
+      "label": "AI Exploration",
+      "items": ["AI Overseas (YTB)", "AI Agent", "Agent Builder"]
+    }
+  },
+  "projects": {
+    "heading": "Projects",
+    "items": [
+      {
+        "title": "Tech Blog",
+        "description": "Sharing technical articles on distributed systems, microservices, performance optimization, 3D monitoring, and source code analysis. Documenting technical practices and insights in the financial IT domain.",
+        "techStack": ["Tech Sharing", "Financial IT"],
+        "link": "https://www.cnblogs.com/Qkxh320",
+        "cover": "/blog-cover.jpg"
+      },
+      {
+        "title": "Journey",
+        "description": "Personal growth journey, project practices, reflections and insights. More content coming soon...",
+        "techStack": ["Growth", "Coming Soon"],
+        "link": "",
+        "cover": "/journey-cover.jpg"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Get in Touch",
+    "subtitle": "At this stage, I will continue to output based on the above philosophies. If you share my vision or have profitable ideas to co-create, feel free to scan the code and let's be friends.",
+    "qrLabel": "Scan to add WeChat, let's be friends",
+    "bilibiliLabel": "Scan to follow on Bilibili"
+  },
+  "footer": {
+    "copyright": "© 2025 Yilin. All rights reserved."
+  }
+}
