@@ -20,36 +20,20 @@ export function Contact() {
         </h2>
         <div className="mt-2 mb-8 h-1 w-12 rounded-full bg-blue-accent" />
 
-        <div className="mt-8 flex flex-col items-center justify-center gap-8 sm:flex-row sm:items-start sm:gap-12">
-          <div className="flex flex-col items-center gap-3">
-            <div className="rounded-xl border border-border bg-white p-4 shadow-sm">
-              <Image
-                src="/wechat-qr.jpg"
-                alt="微信二维码"
-                width={200}
-                height={200}
-                className="h-auto w-auto"
-                priority
-              />
-            </div>
-            <p className="text-sm text-muted-foreground">
-              {t.contact.qrLabel}
-            </p>
+        <div className="mt-8 flex flex-col items-center gap-3">
+          <div className="rounded-xl border border-border bg-white p-4 shadow-sm">
+            <Image
+              src="/wechat-qr.jpg"
+              alt="微信二维码"
+              width={200}
+              height={200}
+              className="h-auto w-auto"
+              priority
+            />
           </div>
-          <div className="flex flex-col items-center gap-3">
-            <div className="rounded-xl border border-border bg-white p-4 shadow-sm">
-              <Image
-                src="/bilibili-qr.jpg"
-                alt="哔哩哔哩二维码"
-                width={200}
-                height={200}
-                className="h-auto w-auto"
-              />
-            </div>
-            <p className="text-sm text-muted-foreground">
-              {t.contact.bilibiliLabel}
-            </p>
-          </div>
+          <p className="text-sm text-muted-foreground">
+            {t.contact.qrLabel}
+          </p>
         </div>
       </div>
     </section>
